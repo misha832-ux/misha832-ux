@@ -42,9 +42,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/telemetry-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/telemetry-langs-light.svg">
-  <img src="assets/telemetry-langs-dark.svg" width="100%" alt="languages across repos">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-dark.svg" width="100%" alt="contribution telemetry">
 </picture>
 
 <picture>
