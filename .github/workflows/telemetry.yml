@@ -45,5 +45,6 @@ jobs:
           else
             git add assets/telemetry-*.svg assets/activity-*.svg assets/projects-*.svg assets/proj-*.svg
             git commit -m "chore: refresh telemetry [skip ci]"
+            git pull --rebase origin main
             git push
           fi
