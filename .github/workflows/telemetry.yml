@@ -42,13 +42,13 @@ jobs:
           if [ -z "$(git status --porcelain -- assets)" ]; then
             echo "no telemetry changes"
           else
-            # Make sure we have the latest main branch
-            git fetch origin main
-            git rebase origin/main
-
             git add assets/telemetry-*.svg assets/activity-*.svg assets/projects-*.svg assets/proj-*.svg
 
             git commit -m "chore: refresh telemetry [skip ci]"
+
+            # Get any newer commits from main and rebase our commit on top
+            git fetch origin main
+            git rebase origin/main
 
             git push origin main
           fi
