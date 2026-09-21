@@ -35,16 +35,20 @@ jobs:
         run: node .github/scripts/gen-telemetry.mjs
       - name: commit if changed
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # --porcelain (not `git diff`) so newly added panels count as a change:
-          # git diff only sees tracked files, so a brand-new proj-*.svg would be
-          # silently skipped and never committed.
+
+          # Check whether telemetry files changed
           if [ -z "$(git status --porcelain -- assets)" ]; then
             echo "no telemetry changes"
           else
+            # Make sure we have the latest main branch
+            git fetch origin main
+            git rebase origin/main
+
             git add assets/telemetry-*.svg assets/activity-*.svg assets/projects-*.svg assets/proj-*.svg
+
             git commit -m "chore: refresh telemetry [skip ci]"
-            git pull --rebase origin main
-            git push
+
+            git push origin main
           fi
