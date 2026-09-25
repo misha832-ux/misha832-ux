@@ -11,16 +11,22 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mishamahenuralam"><img src="https://img.shields.io/badge/LINKEDIN-2ECC71?style=flat-square&logoColor=000000" alt="linkedin"></a>
-  <a href="https://misha-portfolio-site.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2ECC71?style=flat-square" alt="portfolio"></a>
-  <a href="mishaalam832@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2ECC71?style=flat-square" alt="email"></a>
-  <a href="https://github.com/misha832-ux"><img src="https://img.shields.io/badge/GITHUB-2ECC71?style=flat-square" alt="github"></a>
+  <a href="https://www.linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=flat-square&logoColor=000000" alt="linkedin"></a>
+  <a href="https://REPLACE-ME-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square" alt="portfolio"></a>
+  <a href="mailto:misha832ux@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=flat-square" alt="email"></a>
+  <a href="https://github.com/misha832-ux"><img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=flat-square" alt="github"></a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
   <img src="assets/whoami-dark.svg" width="100%" alt="01 — whoami">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ecosystem-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ecosystem-light.svg">
+  <img src="assets/ecosystem-dark.svg" width="100%" alt="02 — system map">
 </picture>
 
 <picture>
@@ -48,15 +54,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/route-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/route-light.svg">
-  <img src="assets/route-dark.svg" width="100%" alt="05 — the route">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img src="assets/stack-dark.svg" width="100%" alt="06 — stack">
+  <img src="assets/stack-dark.svg" width="100%" alt="05 — stack">
 </picture>
 
 <picture>

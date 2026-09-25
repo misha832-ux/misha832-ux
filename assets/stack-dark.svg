@@ -14,20 +14,20 @@
 .type{animation:type 1.8s steps(28,end) both}
 @keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
 </style>
-<text x="10" y="26" font-size="12" fill="#2ECC71" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">05 — stack</text><line x1="105.0" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
-<rect x="30" y="67" width="3" height="14" fill="#2ECC71" opacity="0.55"/>
+<text x="10" y="26" font-size="12" fill="#A78BFA" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">05 — stack</text><line x1="105.0" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
+<rect x="30" y="67" width="3" height="14" fill="#A78BFA" opacity="0.55"/>
 <text x="42" y="78" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">languages</text>
 <text x="230" y="78" font-size="13" fill="#e6edf3" font-weight="400" text-anchor="start">python · c · java · javascript · typescript</text>
-<rect x="30" y="107" width="3" height="14" fill="#2ECC71" opacity="0.55"/>
+<rect x="30" y="107" width="3" height="14" fill="#A78BFA" opacity="0.55"/>
 <text x="42" y="118" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">frontend</text>
 <text x="230" y="118" font-size="13" fill="#e6edf3" font-weight="400" text-anchor="start">react.js · next.js · tailwind css</text>
-<rect x="30" y="147" width="3" height="14" fill="#2ECC71" opacity="0.55"/>
+<rect x="30" y="147" width="3" height="14" fill="#A78BFA" opacity="0.55"/>
 <text x="42" y="158" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">backend</text>
 <text x="230" y="158" font-size="13" fill="#e6edf3" font-weight="400" text-anchor="start">node.js · express.js</text>
-<rect x="30" y="187" width="3" height="14" fill="#2ECC71" opacity="0.55"/>
+<rect x="30" y="187" width="3" height="14" fill="#A78BFA" opacity="0.55"/>
 <text x="42" y="198" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">database &amp; orm</text>
 <text x="230" y="198" font-size="13" fill="#e6edf3" font-weight="400" text-anchor="start">mongodb · mongoose · prisma · neon · drizzle orm · supabase</text>
-<rect x="30" y="227" width="3" height="14" fill="#2ECC71" opacity="0.55"/>
+<rect x="30" y="227" width="3" height="14" fill="#A78BFA" opacity="0.55"/>
 <text x="42" y="238" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">tools &amp; auth</text>
 <text x="230" y="238" font-size="13" fill="#e6edf3" font-weight="400" text-anchor="start">git · github · betterauth · zod</text>
 <text x="230" y="282" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" font-style="italic" opacity="0.8">deep where it counts · quick to pick up the rest · not an exhaustive list</text>

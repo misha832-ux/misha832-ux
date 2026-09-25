@@ -14,12 +14,12 @@
 .type{animation:type 1.8s steps(28,end) both}
 @keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
 </style>
-<text x="10" y="26" font-size="12" fill="#2ECC71" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">01 — whoami</text><line x1="114.5" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
-<text x="30" y="78" font-size="14" fill="#2ECC71" font-weight="400" text-anchor="start">$</text>
+<text x="10" y="26" font-size="12" fill="#A78BFA" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">01 — whoami</text><line x1="114.5" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
+<text x="30" y="78" font-size="14" fill="#A78BFA" font-weight="400" text-anchor="start">$</text>
 <text x="52" y="78" font-size="14" fill="#e6edf3" font-weight="600" text-anchor="start">whoami</text>
 <text x="30" y="107" font-size="14" fill="#e6edf3" font-weight="400" text-anchor="start">misha mahenur alam</text>
 <text x="30" y="132" font-size="14" fill="#8b949e" font-weight="400" text-anchor="start">building things for the web &amp; solving real problems through code is what drives me.</text>
 <text x="30" y="157" font-size="14" fill="#8b949e" font-weight="400" text-anchor="start">balancing multiple projects alongside coursework has sharpened my time management &amp; coordination.</text>
 <text x="30" y="182" font-size="14" fill="#8b949e" font-weight="400" text-anchor="start">co-authored a paper in the acm compass 2026 proceedings.</text>
-<text x="30" y="207" font-size="14" fill="#e6edf3" font-weight="400" text-anchor="start">always looking for the next challenge worth taking on → <tspan class="blink" fill="#2ECC71" font-size="1em">█</tspan></text>
+<text x="30" y="207" font-size="14" fill="#e6edf3" font-weight="400" text-anchor="start">always looking for the next challenge worth taking on → <tspan class="blink" fill="#A78BFA" font-size="1em">█</tspan></text>
 </svg>

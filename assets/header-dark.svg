@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" width="880" height="190" font-family="ui-monospace,'SFMono-Regular','Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace">
-<defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7CFFB2"/><stop offset="1" stop-color="#16A34A"/></linearGradient></defs>
+<defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#C4B5FD"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
 <style>
 .fade{animation:fade .9s ease both}
 @keyframes fade{from{opacity:0}}
@@ -14,11 +14,11 @@
 .type{animation:type 1.8s steps(28,end) both}
 @keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
 </style>
-<path d="M14 34 L14 14 L34 14" fill="none" stroke="#2ECC71" stroke-width="1.5"/>
-<path d="M866 34 L866 14 L846 14" fill="none" stroke="#2ECC71" stroke-width="1.5"/>
-<path d="M14 156 L14 176 L34 176" fill="none" stroke="#2ECC71" stroke-width="1.5"/>
-<path d="M866 156 L866 176 L846 176" fill="none" stroke="#2ECC71" stroke-width="1.5"/>
+<path d="M14 34 L14 14 L34 14" fill="none" stroke="#A78BFA" stroke-width="1.5"/>
+<path d="M866 34 L866 14 L846 14" fill="none" stroke="#A78BFA" stroke-width="1.5"/>
+<path d="M14 156 L14 176 L34 176" fill="none" stroke="#A78BFA" stroke-width="1.5"/>
+<path d="M866 156 L866 176 L846 176" fill="none" stroke="#A78BFA" stroke-width="1.5"/>
 <g class="type"><text x="440" y="92" font-size="34" fill="#e6edf3" font-weight="700" text-anchor="middle" letter-spacing="5">misha mahenur alam</text></g>
 <rect class="grow" x="270" y="112" width="340" height="3" fill="url(#acc)"/>
-<text x="440" y="142" font-size="13" fill="#8b949e" font-weight="400" text-anchor="middle" letter-spacing="3" class="fade">misha832-ux — full-stack web · data &amp; ml · systems</text>
+<text x="440" y="142" font-size="13" fill="#8b949e" font-weight="400" text-anchor="middle" letter-spacing="3" class="fade">misha832-ux — full-stack developer · researcher</text>
 </svg>
