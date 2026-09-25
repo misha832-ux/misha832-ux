@@ -19,5 +19,6 @@
 <path d="M14 156 L14 176 L34 176" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
 <path d="M866 156 L866 176 L846 176" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
 <g class="type"><text x="440" y="92" font-size="34" fill="#0d1117" font-weight="700" text-anchor="middle" letter-spacing="5">misha mahenur alam</text></g>
+<rect class="grow" x="270" y="112" width="340" height="3" fill="url(#acc)"/>
 <text x="440" y="142" font-size="13" fill="#57606a" font-weight="400" text-anchor="middle" letter-spacing="3" class="fade">misha832-ux — full-stack developer · researcher</text>
 </svg>

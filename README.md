@@ -11,8 +11,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=flat-square&logoColor=000000" alt="linkedin"></a>
-  <a href="https://REPLACE-ME-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square" alt="portfolio"></a>
+  <a href="https://www.linkedin.com/in/mishamahenuralam/"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=flat-square&logoColor=000000" alt="linkedin"></a>
+  <a href="https://misha-portfolio-site.vercel.app/ "><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square" alt="portfolio"></a>
   <a href="mailto:misha832ux@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=flat-square" alt="email"></a>
   <a href="https://github.com/misha832-ux"><img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=flat-square" alt="github"></a>
 </p>
